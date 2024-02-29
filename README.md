@@ -11,4 +11,4 @@ my intention was
 
 curvefit.zip is a large number of fit-formulas ready to use in CurveExpert Professional
 
-the exe is a standalone running program writen from a student to get fast some solutions
+i have a small exe (is a standalone running program writen from a student) to get fast some solutions, ask me if you are interessted
