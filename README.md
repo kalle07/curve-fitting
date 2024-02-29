@@ -1,4 +1,4 @@
-Its a first try to handle some equetions for calculatin index of refraction of glass with different types of fit-algorythms
+Its a first try to handle some equations to calculate the index of refraction of glass with different types of fit-algorythms
 
 my intention was 
 
