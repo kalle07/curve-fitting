@@ -7,4 +7,8 @@ my intention was
 * work with random numbers
 * calculate it on multicore
 * work with only 4 datapoints of the glass measured with a goniometer(metricon) on 4 wavelenghts
-* 
+
+
+curvefit.zip is a large number of fit-formulas ready to use in CurveExpert Professional
+
+the exe is a standalone running program writen from a student to get fast some solutions
