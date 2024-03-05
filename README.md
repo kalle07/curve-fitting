@@ -1,6 +1,7 @@
 Its a first try to handle some equations to calculate the index of refraction of glass with different types of fit-algorythms
 
 my intention was 
+its not only sellmeier!
 
 * to get good starting numbers
 * to create good starting numbers
